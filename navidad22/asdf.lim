@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.3.3">
+    <config>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>3</tipo>
+            <nonpasar atras="1" >1</nonpasar>
+              <imaxe>pexels-jimmy-chan-1723679.jpg</imaxe>
+              <filas>4</filas>
+              <columnas>4</columnas>
+              <reixa>0</reixa>
+            <forma>1</forma>
+        </paxina>
+        <paxina id="2" >
+              <tipo>3</tipo>
+              <imaxe>pexels-markus-spiske-214238.jpg</imaxe>
+              <filas>4</filas>
+              <columnas>4</columnas>
+              <reixa>0</reixa>
+            <forma>1</forma>
+        </paxina>
+    </libro>
+</lim>
